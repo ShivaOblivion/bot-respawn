@@ -1,0 +1,38 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/LD_Playable/LD_FirstSteps_2.unity
+    guid: 7e66c08087cc5064c932d795a960b917
+  - enabled: 1
+    path: Assets/Scenes/LD_Playable/LD_Stacking_2.unity
+    guid: 6093df3511276ef4b95e709ad65f0bc7
+  - enabled: 1
+    path: Assets/Scenes/LD_Playable/LD_CrossingClimb_2.unity
+    guid: 20c66b4521ac8ef4da65ad9fea9407f4
+  - enabled: 1
+    path: Assets/Scenes/LD_Playable/LD_Bridge_2.unity
+    guid: 32d8661be3ff4284982d830cedae2d8c
+  - enabled: 1
+    path: Assets/Scenes/LD_Playable/LD_ Launchpad_2B.unity
+    guid: 2fd9a64439ba06541942ccddfaec7303
+  - enabled: 1
+    path: Assets/Scenes/LD_Playable/LD_DiagonalDash_2B.unity
+    guid: 79d79dae79965fc43abd4548ee8fe0c2
+  - enabled: 1
+    path: Assets/Scenes/LD_Playable/LD_ThroughWall_2B.unity
+    guid: cfe39573ec2342c4999568a83d6da544
+  - enabled: 1
+    path: Assets/Scenes/LD_Playable/LD_ WallBang_2B.unity
+    guid: 417c59e45fb8a7f4e884c27363ab2415
+  - enabled: 1
+    path: Assets/Scenes/LD_Playable/LD_HeadStep_2.unity
+    guid: b2268048e61b9ef42b95439383f77dcc
+  - enabled: 1
+    path: Assets/Scenes/LD_Playable/LD_ FilledTemplate.unity
+    guid: 9189321c2502b6a47aa2bdc7824b422a
+  m_configObjects: {}
